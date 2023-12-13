@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamupo" target="blank"><img src="https://img.shields.io/twitter/follow/iamupo?logo=twitter&style=for-the-badge" alt="iamupo" /></a> </p>
 
-- 💬 Ask me about **react, vue and ts**
+- 💬 Ask me about **HTML, CSS and JS**
 
 - 📫 How to reach me **uzorpromiseokwudiri@gmail.com**
 
